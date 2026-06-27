@@ -38,17 +38,28 @@
 <details>
   <summary>Who are you? 👨</summary>
   <pre>
-  A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and
-  technical systems to create impact.<br>
-  My name describes my qualities:
-  M: Magestic
-  A: Active
-  H: Hard working
-  E: Energetic
-  N: Neat handed
-  D: Delight
-  R: Responsible
-  A: Authentic
+  A passionate Software Engineer, Content Creator, and Entrepreneur who thrives on building scalable backend systems and creating educational content that impacts thousands of aspiring developers. I enjoy solving complex problems, simplifying technical concepts, and continuously learning new technologies to deliver real-world solutions.
+
+I believe technology becomes meaningful only when it creates value for people. Whether it's developing high-performance backend applications, creating content that helps students build their careers, or working on innovative business ideas, I always strive to make a positive impact.
+
+**My name describes my qualities:**
+
+**D** – Dedicated
+**I** – Innovative
+**N** – Never Stop Learning
+**E** – Enthusiastic
+**S** – Solution-Oriented
+**H** – Hardworking
+
+**K** – Knowledge Seeker
+**A** – Ambitious
+**A** – Authentic
+**R** – Responsible
+**T** – Team Player
+**H** – Honest
+**I** – Impact-Driven
+**K** – Kind
+
   </pre>
 </details>
 <h2>Worked with</h3>
