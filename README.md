@@ -1,8 +1,6 @@
 
-<h1>Hi there, This is <a href="https://mahendragandham.vercel.app/">Mahendra (Software Developer)</a></h1>
+<h1>Hi there, This is <a href="https://mahendragandham.vercel.app/">Dinesh Kaarthik (Software Developer)</a></h1>
 <h3>Passionate about Programming Research & Development</h3>
-  
- <img align="right" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/server.gif" width="38%">
 
 <a href="https://www.linkedin.com/in/mahendragandham/"><img src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/linkedin.svg" width="30" /></a>&nbsp;
 <a href="https://www.youtube.com/channel/UCIf7QLKvNYQIFCRxCe-j8dQ"><img src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/youtube.svg" width="30" /></a>&nbsp;
@@ -102,23 +100,14 @@
 
 <h2>What if you like my work? 🚀</h2>
 <ul>
-  <li>Subscribe to my <a href="https://www.youtube.com/@mahendra4919">Youtube Channel</a></li>
+  <li>Subscribe to my <a href="https://www.youtube.com/@KaarthikForU">Youtube Channel</a></li>
   <li>Star ⭐  the Projects you wish</li>
 </ul>
 
-![Mahendra's Github Profile Views](https://komarev.com/ghpvc/?username=mahendrasaikumargandham&color=blueviolet)  
+![Mahendra's Github Profile Views](https://komarev.com/ghpvc/?username=dineshkaarthikmoode&color=blueviolet)  
 
-[![An image of @mahendra_4919's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mahendra_4919)](https://holopin.io/@mahendra_4919)
-
-<a href="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham">
-
-![](https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/generated/overview.svg)
-![](https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/generated/languages.svg)
-
-</a>
-
-[![Mahendra's Github Stats](https://github-readme-stats.vercel.app/api?username=mahendrasaikumargandham&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=mahendrasaikumargandham&show_icons=true)
+[![Dinesh Kaarthik's Github Stats](https://github-readme-stats.vercel.app/api?username=dineshkaarthikmoode&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=dineshkaarthikmoode&show_icons=true)
 <br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=mahendrasaikumargandham&hide_border=true&theme=radical)
-![](https://activity-graph.herokuapp.com/graph?username=mahendrasaikumargandham&theme=redical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=dineshkaarthikmoode&hide_border=true&theme=radical)
+![](https://activity-graph.herokuapp.com/graph?username=dineshkaarthikmoode&theme=redical)
