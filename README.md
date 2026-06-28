@@ -21,18 +21,6 @@
     <li><a href="https://github.com/mahendrasaikumargandham/hardwareservices">Hardware Services</a></li>
   </ul>
 </details>
-<details><summary>Game Development</summary>
-  <ul>
-    <li><a href="https://github.com/mahendrasaikumargandham/ViceCityRemastered">Vice City Remastered</a></li>
-    <li><a href="https://github.com/mahendrasaikumargandham/MatrixQuest">Matrix Quest</a></li>
-  </ul>
-</details>
-<details><summary>Linux Development</summary>
-  <ul>
-    <li><a href="https://github.com/mahendrasaikumargandham/Conqueror">Conqueror</a></li>
-<!--     <li><a href="https://github.com/mahendrasaikumargandham/Linux_kernel">Linux Kernel</a></li> -->
-  </ul>
-</details>
 
 <h2>The Questions You May Have 😕</h2>
 <details>
