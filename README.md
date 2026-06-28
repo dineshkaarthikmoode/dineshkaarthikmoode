@@ -2,10 +2,6 @@
 Hi there, This is <a href="https://dineshkaarthik.vercel.app/">Dinesh Kaarthik (Backend Software Engineer)</a>
 </h1>
 
-<h3>
-Passionate about Building Scalable Backend Systems, Distributed Applications & Real-World Software Solutions.
-</h3>
-
 <a href="https://www.linkedin.com/in/dineshkaarthikmoode/">
 <img src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/linkedin.svg" width="30"/>
 </a>&nbsp;
