@@ -19,8 +19,6 @@ Backend Software Engineer | Building Scalable Systems
 Building scalable, reliable, and production-ready backend systems.
 </p>
 
-<br>
-
 <a href="https://dineshkaarthik.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
@@ -44,8 +42,6 @@ Building scalable, reliable, and production-ready backend systems.
 <a href="mailto:kaarthik9493@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<br><br>
 
 <img align="right" width="380" alt="Backend Developer" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
