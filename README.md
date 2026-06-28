@@ -52,12 +52,10 @@ Building scalable, reliable, and production-ready backend systems.
 
 ### 👨‍💻 About Me
 
-* 💼 Backend Software Engineer @ **Locus Elite**
-* ☕ Java & Spring Boot Developer
+* 💼 Backend Software Engineer
 * ☁️ Building scalable backend systems using AWS
 * 🚀 Passionate about System Design & Distributed Systems
 * 🎥 Programming Content Creator helping **150K+ developers**
-* 🌱 Currently learning **Docker, Redis, Kafka & Kubernetes**
 
 <br>
 
