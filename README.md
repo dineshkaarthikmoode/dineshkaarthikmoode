@@ -137,18 +137,6 @@
 
 ---
 
-# 📚 Currently Learning
-
-- Docker
-- Redis
-- Apache Kafka
-- Microservices
-- Spring Security
-- Kubernetes
-- Advanced System Design
-
----
-
 # 🏆 GitHub
 
 <p align="center">
