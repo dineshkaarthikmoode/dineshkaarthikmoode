@@ -2,7 +2,7 @@
 <h1>Hi there, This is <a href="https://dineshkaarthik.vercel.app/">Dinesh Kaarthik (Software Developer)</a></h1>
 <h3>Passionate about Programming Research & Development</h3>
 
-<a href="https://www.linkedin.com/in/mahendragandham/"><img src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/linkedin.svg" width="30" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/dineshkaarthikmoode/"><img src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/linkedin.svg" width="30" /></a>&nbsp;
 <a href="https://www.youtube.com/channel/UCIf7QLKvNYQIFCRxCe-j8dQ"><img src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/youtube.svg" width="30" /></a>&nbsp;
 <a href="https://github.com/mahendrasaikumargandham"><img src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/github.svg" width="30" /></a>&nbsp;
 <a href="https://www.facebook.com/mahendra.gandham.3/"><img src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/facebook.svg" width="30" /></a>&nbsp;
