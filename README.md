@@ -1,9 +1,5 @@
 <h1>Hi there, This is <a href="https://dineshkaarthik.vercel.app/">Dinesh Kaarthik (Software Developer)</a></h1>
 
-<h3 align="center">
-Backend Software Engineer • Java • Spring Boot • Building Scalable Systems
-</h3>
-
 <p align="center">
 Passionate about designing scalable backend applications, distributed systems, cloud technologies, and solving real-world engineering problems.
 </p>
