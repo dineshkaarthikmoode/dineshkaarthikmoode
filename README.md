@@ -144,3 +144,184 @@ Java • Spring Boot • Servlets • REST APIs • MySQL • Elasticsearch • 
 • Open Source Learning Projects
 
 </details>
+<h2>Worked With 🛠️</h2>
+
+<h3>💻 Programming Languages</h3>
+
+<p>
+<img height="35" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/java.svg">&nbsp;
+<img height="35" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/python.svg">&nbsp;
+<img height="35" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/javascript.svg">&nbsp;
+<img height="35" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/html5.svg">&nbsp;
+<img height="35" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/css3.svg">&nbsp;
+</p>
+
+---
+
+<h3>🚀 Backend Frameworks & Technologies</h3>
+
+<p>
+
+🔹 Spring Boot &nbsp;&nbsp;
+
+🔹 Java Servlets &nbsp;&nbsp;
+
+🔹 REST APIs &nbsp;&nbsp;
+
+🔹 JDBC &nbsp;&nbsp;
+
+🔹 Maven &nbsp;&nbsp;
+
+🔹 Tomcat
+
+</p>
+
+---
+
+<h3>🗄️ Databases & Search Engines</h3>
+
+<p>
+
+🔹 MySQL &nbsp;&nbsp;
+
+🔹 AWS DynamoDB &nbsp;&nbsp;
+
+🔹 Elasticsearch
+
+</p>
+
+---
+
+<h3>☁️ Cloud & AWS</h3>
+
+<p>
+
+<img height="35" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/aws.svg">&nbsp;
+
+AWS Services:
+
+• Amazon S3
+
+• Amazon SQS
+
+• AWS Lambda
+
+• DynamoDB
+
+</p>
+
+---
+
+<h3>🖥️ Operating Systems</h3>
+
+<p>
+
+<img height="35" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/windows.svg">&nbsp;
+<img height="35" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/ubuntu.svg">&nbsp;
+<img height="35" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/redhat.svg">&nbsp;
+
+</p>
+
+---
+
+<h3>🧰 Developer Tools</h3>
+
+<p>
+
+🔹 Git
+
+🔹 GitHub
+
+🔹 Linux
+
+🔹 VS Code
+
+🔹 NetBeans
+
+🔹 Postman
+
+🔹 IntelliJ IDEA (Learning)
+
+</p>
+
+---
+
+<h3>⚙️ Backend Engineering Concepts</h3>
+
+<details>
+
+<summary><b>Click to View</b></summary>
+
+<br>
+
+✔ Object Oriented Programming (OOP)
+
+✔ Collections Framework
+
+✔ Exception Handling
+
+✔ Multithreading
+
+✔ Java Streams
+
+✔ Authentication & Authorization
+
+✔ Servlet Filters
+
+✔ REST API Design
+
+✔ SQL Optimization
+
+✔ Database Indexing
+
+✔ Background Jobs
+
+✔ Scheduling
+
+✔ Rate Limiting
+
+✔ Caching Concepts
+
+✔ Load Balancing
+
+✔ Horizontal Scaling
+
+✔ Vertical Scaling
+
+✔ Distributed Systems
+
+✔ Performance Optimization
+
+✔ Production Debugging
+
+✔ System Design Fundamentals
+
+</details>
+
+---
+
+<h3>📚 Currently Exploring</h3>
+
+<details>
+
+<summary><b>Learning Roadmap 🚀</b></summary>
+
+<br>
+
+🐳 Docker
+
+📦 Redis
+
+📨 Apache Kafka
+
+☸ Kubernetes
+
+🏗 Microservices
+
+🔐 Spring Security
+
+📊 Advanced System Design
+
+☁ AWS Cloud Architecture
+
+</details>
