@@ -9,11 +9,10 @@
   <a href="https://dineshkaarthik.vercel.app/">
     Dinesh Kaarthik
   </a>
-  👋
 </h1>
 
 <h3 align="left">
-Backend Software Engineer
+Backend Software Engineer | Building Scalable Systems
 </h3>
 
 <p align="left">
