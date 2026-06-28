@@ -369,16 +369,6 @@ View Repository →
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dineshkaarthikmoode&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
-
-</p>
-
----
 <!-- ====================================================== -->
 
 <!--                    CONNECT SECTION                     -->
