@@ -2,7 +2,7 @@
 Hi there, This is <a href="https://dineshkaarthik.vercel.app/">Dinesh Kaarthik (Backend Developer)</a>
 </h1>
 <h3>
-Passionate about Building Scalable Backend Systems, Distributed Applications & Real-World Software Solutions.
+Passionate about Backend Engineering, System Design & Cloud Technologies.
 </h3>
 
 <a href="https://www.linkedin.com/in/dineshkaarthikmoode/">
