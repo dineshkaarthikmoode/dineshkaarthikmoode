@@ -183,4 +183,82 @@ Building scalable, reliable, and production-ready backend systems.
 </p>
 
 ---
+<!-- ====================================================== -->
+
+<!--                 EXPERIENCE SECTION                     -->
+
+<!-- ====================================================== -->
+
+## 💼 Professional Experience
+
+### 🚀 Backend Software Engineer | Locus Elite
+
+📅 **September 2024 – Present**
+
+Working on a large-scale **Media Intelligence Platform** that continuously monitors millions of social media and news records.
+
+### My Responsibilities
+
+✔ Designing scalable backend services
+
+✔ Building Authentication & Authorization systems
+
+✔ REST API Development
+
+✔ Elasticsearch Optimization
+
+✔ SQL Query Optimization
+
+✔ Background Jobs & Scheduling
+
+✔ Production Monitoring
+
+✔ AWS Cloud Integrations
+
+✔ Performance Optimization
+
+✔ Linux Production Support
+
+---
+
+## 🎯 Current Focus
+
+```java
+public class DineshKaarthik {
+
+    String role = "Backend Software Engineer";
+
+    String currentlyBuilding =
+        "Production-ready Backend Systems";
+
+    String[] projects = {
+        "Distributed URL Shortener",
+        "Event Management Platform",
+        "Spring Boot Portfolio Projects"
+    };
+
+    String[] learning = {
+        "Docker",
+        "Redis",
+        "Apache Kafka",
+        "Microservices",
+        "Kubernetes"
+    };
+
+}
+```
+
+---
+
+## 🚀 2026 Goals
+
+* 🚀 Build 5 Production-Level Backend Projects
+* ⭐ Grow Open Source Contributions
+* ☁ Master AWS Cloud
+* 🏗 Learn Advanced System Design
+* 🐳 Become proficient with Docker & Kubernetes
+* 📈 Reach 500+ GitHub Contributions
+* 🎯 Become a Top Backend Engineer
+
+---
 
