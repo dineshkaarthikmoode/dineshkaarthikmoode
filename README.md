@@ -1,5 +1,5 @@
 <h1>
-Hi there, This is <a href="https://dineshkaarthik.vercel.app/">Dinesh Kaarthik (Backend Software Engineer)</a>
+Hi there, This is <a href="https://dineshkaarthik.vercel.app/">Dinesh Kaarthik (Backend Developer)</a>
 </h1>
 
 <a href="https://www.linkedin.com/in/dineshkaarthikmoode/">
