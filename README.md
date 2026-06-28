@@ -64,3 +64,123 @@ Building scalable, reliable, and production-ready backend systems.
 > *"Code should not only work — it should scale."*
 
 ---
+<!-- ====================================================== -->
+
+<!--                  TECH STACK SECTION                    -->
+
+<!-- ====================================================== -->
+
+## 🛠 Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+
+<img height="45" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/java.svg"/>   <img height="45" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/python.svg"/>   <img height="45" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/javascript.svg"/>   <img height="45" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/html5.svg"/>   <img height="45" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/css3.svg"/>
+
+</p>
+
+---
+
+### ⚙️ Backend Development
+
+<p>
+
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java%20Servlets-E76F00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
+
+</p>
+
+---
+
+### 🗄 Databases
+
+<p>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
+
+</p>
+
+---
+
+### ☁ Cloud & AWS
+
+<p>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
+
+</p>
+
+---
+
+### 🧰 Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white"/>
+
+</p>
+
+---
+
+### 📚 Backend Concepts
+
+<p>
+
+<img src="https://img.shields.io/badge/OOP-blue?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Multithreading-success?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/REST%20API-orange?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/System%20Design-red?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Authentication-8A2BE2?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Authorization-blueviolet?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Distributed%20Systems-green?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Performance%20Optimization-yellow?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Rate%20Limiting-red?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Load%20Balancing-orange?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Horizontal%20Scaling-blue?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Vertical%20Scaling-purple?style=flat-square"/>
+
+</p>
+
+---
+
