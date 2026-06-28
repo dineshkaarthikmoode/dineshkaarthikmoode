@@ -3,12 +3,12 @@
 <h3>Passionate about Programming Research & Development</h3>
 
 <a href="https://www.linkedin.com/in/dineshkaarthikmoode/"><img src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/linkedin.svg" width="30" /></a>&nbsp;
+<a href="https://www.instagram.com/kaarthikforu/"><img style="padding:30px" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/instagram.svg" width="30" /></a>
 <a href="https://www.youtube.com/@KaarthikForU"><img src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/youtube.svg" width="30" /></a>&nbsp;
 <a href="https://github.com/dineshkaarthikmoode"><img src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/github.svg" width="30" /></a>&nbsp;
 <a href="https://www.facebook.com/share/1CsDrhM8ZK/"><img src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/facebook.svg" width="30" /></a>&nbsp;
 <a href="mailto:kaarthik9493@gmail.com"><img src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/gmail.svg" width="30" /></a>&nbsp;
 <a href="https://x.com/DineshKaarthik6"><img src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/twitter.svg" width="30" /></a>&nbsp;
-<a href="https://www.instagram.com/kaarthikforu/"><img style="padding:30px" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/instagram.svg" width="30" /></a>
 
 <h3>What I do? 💻</h3>
 <details><summary>Full Stack Development</summary>
