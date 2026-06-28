@@ -49,6 +49,7 @@ Building scalable, reliable, and production-ready backend systems.
 <br><br>
 
 <img align="right" width="380" alt="Backend Developer" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+
 ### 👨‍💻 About Me
 
 * 💼 Backend Software Engineer @ **Locus Elite**
