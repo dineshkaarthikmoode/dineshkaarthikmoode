@@ -169,17 +169,6 @@ Analytics engine for monitoring platform usage and user behaviour.
 
 ---
 
-# ⚡ Fun Facts
-
-- ☕ Java is my favourite programming language.
-- 🚀 I love building scalable backend systems.
-- 🎥 I create programming content in Telugu.
-- 📈 Passionate about performance optimization.
-- 🌱 Always learning new backend technologies.
-- 💡 I believe learning happens by building real-world projects.
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
