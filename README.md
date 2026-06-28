@@ -25,9 +25,7 @@ Hi there, This is <a href="https://dineshkaarthik.vercel.app/">Dinesh Kaarthik (
 <a href="https://x.com/DineshKaarthik6">
 <img src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/twitter.svg" width="30"/>
 </a>&nbsp;
-
 <br><br>
-
 <img align="right" width="340" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 <h2>What I do? 💻</h2>
 
