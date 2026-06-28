@@ -1,5 +1,5 @@
 
-<h1>Hi there, This is <a href="https://mahendragandham.vercel.app/">Dinesh Kaarthik (Software Developer)</a></h1>
+<h1>Hi there, This is <a href="https://dineshkaarthik.vercel.app/">Dinesh Kaarthik (Software Developer)</a></h1>
 <h3>Passionate about Programming Research & Development</h3>
 
 <a href="https://www.linkedin.com/in/mahendragandham/"><img src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/linkedin.svg" width="30" /></a>&nbsp;
