@@ -55,16 +55,10 @@ I believe technology becomes meaningful only when it creates value for people. W
 
 <img height="30" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/java.svg">&nbsp;
 <img height="30" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/python.svg">&nbsp;
-<img height="30" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/c.svg">&nbsp;
-<img height="30" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/c-plusplus.svg">&nbsp;
 <img height="30" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/html5.svg">&nbsp;
 <img height="30" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/css3.svg">&nbsp;
 <img height="30" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/javascript.svg">&nbsp;
-<img height="30" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/react.svg">&nbsp;
 <img height="30" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/django.svg">&nbsp;
-<img height="30" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/npm.svg">&nbsp;
-<img height="30" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/nodedotjs.svg">&nbsp;
-<img height="30" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/dotnet.svg">&nbsp;
 <!-- <img align="right" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/work-from-home.gif" width="300px"> -->
 <h3>[$Game Engines:~#]</h3>
 
