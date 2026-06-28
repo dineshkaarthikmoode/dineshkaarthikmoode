@@ -1,179 +1,150 @@
-<h1 align="center">Hi 👋, I'm Dinesh Kaarthik</h1>
+<h1>
+Hi there, This is <a href="https://dineshkaarthik.vercel.app/">Dinesh Kaarthik (Backend Software Engineer)</a>
+</h1>
 
-<h3 align="center">Backend Software Engineer • Java • Spring Boot • Building Scalable Systems</h3>
+<h3>
+Passionate about Building Scalable Backend Systems, Distributed Applications & Real-World Software Solutions.
+</h3>
 
-<p align="center">
-<a href="https://dineshkaarthik.vercel.app/">Portfolio</a> •
-<a href="https://www.linkedin.com/in/dineshkaarthikmoode/">LinkedIn</a> •
-<a href="https://github.com/dineshkaarthikmoode">GitHub</a> •
-<a href="https://www.instagram.com/kaarthikforu/">Instagram</a> •
-<a href="https://www.youtube.com/@KaarthikForU">YouTube</a>
-</p>
+<a href="https://www.linkedin.com/in/dineshkaarthikmoode/">
+<img src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/linkedin.svg" width="30"/>
+</a>&nbsp;
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Backend+Software+Engineer;Java+%7C+Spring+Boot+%7C+AWS;Building+Scalable+Backend+Systems;Content+Creator+%7C+Always+Learning" />
-</p>
+<a href="https://www.instagram.com/kaarthikforu/">
+<img src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/instagram.svg" width="30"/>
+</a>&nbsp;
 
----
+<a href="https://www.youtube.com/@KaarthikForU">
+<img src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/youtube.svg" width="30"/>
+</a>&nbsp;
 
-# 👨‍💻 About Me
+<a href="https://github.com/dineshkaarthikmoode">
+<img src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/github.svg" width="30"/>
+</a>&nbsp;
 
-<details>
-<summary><b>Who am I?</b></summary>
+<a href="mailto:kaarthik9493@gmail.com">
+<img src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/gmail.svg" width="30"/>
+</a>&nbsp;
 
-- 💼 Backend Software Engineer at **Locus Elite**
-- ☕ Passionate Java & Spring Boot Developer
-- ⚡ Building scalable backend systems
-- 🔐 Experienced in Authentication, REST APIs & Background Jobs
-- ☁️ Working with AWS, Elasticsearch & MySQL
-- 🎥 Programming Content Creator helping thousands of developers
-- 🚀 Currently exploring Distributed Systems, Docker, Kafka & System Design
+<a href="https://x.com/DineshKaarthik6">
+<img src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/twitter.svg" width="30"/>
+</a>&nbsp;
 
-</details>
+<br><br>
 
----
-
-# 🚀 What I Build
+<img align="right" width="340" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
+<h2>What I do? 💻</h2>
 
 <details>
 <summary><b>Backend Engineering</b></summary>
 
-- Media Intelligence Platform
-- Centralized Authentication System
-- Real-Time Alerting Engine
-- User Activity Analytics
-- Production Monitoring System
-- REST APIs
-- Background Processing Systems
+<ul>
+
+<li>Java Backend Development</li>
+
+<li>Spring Boot Applications</li>
+
+<li>REST API Development</li>
+
+<li>Authentication & Authorization</li>
+
+<li>Distributed Backend Systems</li>
+
+<li>Performance Optimization</li>
+
+<li>Background Jobs & Scheduling</li>
+
+<li>Real-Time Monitoring Systems</li>
+
+<li>Scalable System Design</li>
+
+</ul>
 
 </details>
 
 <details>
-<summary><b>Upcoming Projects</b></summary>
+<summary><b>Technical Content Creation</b></summary>
 
-- Distributed URL Shortener
-- Event Management Platform
-- Redis Cache
-- Kafka Event Streaming
-- Docker Deployment
-- API Gateway
+<ul>
+
+<li>Programming Tutorials (Telugu)</li>
+
+<li>Backend Engineering Concepts</li>
+
+<li>Java & Spring Boot</li>
+
+<li>System Design</li>
+
+<li>Career Guidance</li>
+
+<li>Software Engineering</li>
+
+</ul>
 
 </details>
 
----
+<details>
+<summary><b>Currently Learning</b></summary>
 
-# 🛠 Tech Stack
+<ul>
 
-## Languages
+<li>Distributed Systems</li>
 
-<p>
-<img height="35" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/java.svg">
-<img height="35" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/python.svg">
-<img height="35" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/javascript.svg">
-<img height="35" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/html5.svg">
-<img height="35" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/css3.svg">
-</p>
+<li>Microservices</li>
 
-## Backend
+<li>Docker</li>
 
-- Java
-- Spring Boot
-- Java Servlets
-- JDBC
-- REST APIs
-- Maven
-- Tomcat
+<li>Redis</li>
 
-## Database
+<li>Apache Kafka</li>
 
-- MySQL
-- Elasticsearch
-- DynamoDB
+<li>Kubernetes</li>
 
-## Cloud
+<li>Advanced System Design</li>
 
-- AWS S3
-- AWS SQS
-- AWS Lambda
+</ul>
 
-## Tools
+</details>
+<h2>The Questions You May Have 🤔</h2>
 
-- Git
-- GitHub
-- Linux
-- VS Code
-- NetBeans
-- Postman
+<details>
 
----
+<summary><b>Who are you? 👨</b></summary>
 
-# 💡 Backend Concepts
+<br>
 
-- OOP
-- Collections
-- Multithreading
-- Authentication & Authorization
-- Rate Limiting
-- Load Balancing
-- Horizontal Scaling
-- Vertical Scaling
-- Distributed Systems
-- SQL Optimization
-- Performance Tuning
-- REST API Design
+I'm a Backend Software Engineer currently working at <b>Locus Elite</b>, where I design and build scalable backend services for a Media Intelligence Platform that processes millions of social media and news records.
 
----
+I enjoy solving backend engineering problems related to scalability, authentication, distributed systems, performance optimization and cloud technologies.
 
-# 📌 Featured Projects
+Beyond software development, I create programming content in Telugu to help students and developers understand complex technical concepts through real-world examples.
 
-| Project | Description |
-|----------|-------------|
-| Media Intelligence Platform | Large-scale backend processing millions of records |
-| Authentication Framework | Servlet Filters + DynamoDB |
-| Production Monitoring | Background jobs & alerting |
-| User Analytics | Analytics dashboards |
-| URL Shortener *(Coming Soon)* | Spring Boot + Redis |
-| Event Management *(Coming Soon)* | Full backend architecture |
+I strongly believe that the best software engineers are built by continuously learning and building real-world projects.
 
----
+</details>
 
-# 🏆 GitHub
+<br>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dineshkaarthikmoode&theme=radical&no-frame=true&margin-w=10"/>
-</p>
+<details>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dineshkaarthikmoode&show_icons=true&theme=radical"/>
-</p>
+<summary><b>What technologies do you work with?</b></summary>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dineshkaarthikmoode&theme=radical"/>
-</p>
+Java • Spring Boot • Servlets • REST APIs • MySQL • Elasticsearch • DynamoDB • AWS • Linux • Git • Maven • Postman
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dineshkaarthikmoode&theme=react-dark"/>
-</p>
+</details>
 
----
+<br>
 
-# 🌍 Connect
+<details>
 
-<p>
-<a href="https://www.linkedin.com/in/dineshkaarthikmoode/"><img src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/linkedin.svg" width="32"/></a>
-<a href="https://www.instagram.com/kaarthikforu/"><img src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/instagram.svg" width="32"/></a>
-<a href="https://www.youtube.com/@KaarthikForU"><img src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/youtube.svg" width="32"/></a>
-<a href="https://github.com/dineshkaarthikmoode"><img src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/github.svg" width="32"/></a>
-<a href="mailto:kaarthik9493@gmail.com"><img src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/gmail.svg" width="32"/></a>
-<a href="https://x.com/DineshKaarthik6"><img src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/twitter.svg" width="32"/></a>
-</p>
+<summary><b>What are you currently building?</b></summary>
 
----
+• Distributed URL Shortener
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=dineshkaarthikmoode&label=Profile%20Views&color=blueviolet&style=flat"/>
-</p>
+• Event Management Platform
 
-<p align="center">
-⭐ Thanks for visiting my profile. I'm always building, learning and sharing knowledge.
-</p>
+• Backend Engineering Portfolio Projects
+
+• Open Source Learning Projects
+
+</details>
