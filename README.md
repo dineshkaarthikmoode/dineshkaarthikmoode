@@ -105,9 +105,15 @@ Backend Software Engineer | Building Scalable Systems
 
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Java%20Servlets-E76F00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-4A90E2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge"/>
 
@@ -129,15 +135,19 @@ Backend Software Engineer | Building Scalable Systems
 
 <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/ChromaDB-6C63FF?style=for-the-badge"/>
+
 </p>
 
 ---
 
-### ☁ Cloud & AWS
+### ☁️ Cloud & AWS
 
 <p>
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
 
@@ -166,7 +176,6 @@ Backend Software Engineer | Building Scalable Systems
 <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white"/>
 
 </p>
-
 ---
 
 ### 📚 Backend Concepts
