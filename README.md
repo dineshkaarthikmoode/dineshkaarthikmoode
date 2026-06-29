@@ -233,47 +233,6 @@ Contributing to a large-scale **Media Intelligence Platform** that processes mil
 - Improved production reliability through monitoring, automation, and performance optimization.
 
 ---
-
-## 🎯 Current Focus
-
-```java
-public class DineshKaarthik {
-
-    String role = "Backend Software Engineer";
-
-    String currentlyBuilding =
-        "Production-ready Backend Systems";
-
-    String[] projects = {
-        "Distributed URL Shortener",
-        "Event Management Platform",
-        "Spring Boot Portfolio Projects"
-    };
-
-    String[] learning = {
-        "Docker",
-        "Redis",
-        "Apache Kafka",
-        "Microservices",
-        "Kubernetes"
-    };
-
-}
-```
-
----
-
-## 🚀 2026 Goals
-
-* 🚀 Build 5 Production-Level Backend Projects
-* ⭐ Grow Open Source Contributions
-* ☁ Master AWS Cloud
-* 🏗 Learn Advanced System Design
-* 🐳 Become proficient with Docker & Kubernetes
-* 📈 Reach 500+ GitHub Contributions
-* 🎯 Become a Top Backend Engineer
-
----
 <!-- ====================================================== -->
 
 <!--                  FEATURED PROJECTS                     -->
@@ -342,17 +301,6 @@ View Repository →
 
 ---
 
-### 📌 More Projects Coming Soon
-
-* Backend Boilerplate
-* Authentication Framework
-* API Gateway
-* Redis Cache Demo
-* Kafka Event Streaming
-* Notification Service
-* File Storage Service
-
----
 <!-- ====================================================== -->
 
 <!--                    GITHUB STATS                        -->
