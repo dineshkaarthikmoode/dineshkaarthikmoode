@@ -63,11 +63,34 @@ Backend Software Engineer | Building Scalable Systems
 
 ### 💻 Programming Languages
 
-<p>
+<table>
+<tr align="center">
+<td>
+<img src="https://skillicons.dev/icons?i=java" width="55"/><br>
+<b>Java</b>
+</td>
 
-<img height="45" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/java.svg"/>   <img height="45" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/python.svg"/>   <img height="45" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/javascript.svg"/>   <img height="45" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/html5.svg"/>   <img height="45" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/css3.svg"/>
+<td>
+<img src="https://skillicons.dev/icons?i=python" width="55"/><br>
+<b>Python</b>
+</td>
 
-</p>
+<td>
+<img src="https://skillicons.dev/icons?i=javascript" width="55"/><br>
+<b>JavaScript</b>
+</td>
+
+<td>
+<img src="https://skillicons.dev/icons?i=html" width="55"/><br>
+<b>HTML5</b>
+</td>
+
+<td>
+<img src="https://skillicons.dev/icons?i=css" width="55"/><br>
+<b>CSS3</b>
+</td>
+</tr>
+</table>
 
 ---
 
