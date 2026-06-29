@@ -219,31 +219,18 @@ Backend Software Engineer | Building Scalable Systems
 
 ### 🚀 Backend Software Engineer | Locus Elite
 
-📅 **September 2024 – Present**
+**September 2024 – Present**
 
-Working on a large-scale **Media Intelligence Platform** that continuously monitors millions of social media and news records.
+Contributing to a large-scale **Media Intelligence Platform** that processes millions of social media posts and news articles, delivering real-time analytics and insights.
 
-### My Responsibilities
+**Tech Stack:** `Java` · `Spring Boot` · `FastAPI` · `Python` · `MySQL` · `Elasticsearch` · `AWS (S3, SQS, DynamoDB)` · `RAG` · `ChromaDB`
 
-✔ Designing scalable backend services
-
-✔ Building Authentication & Authorization systems
-
-✔ REST API Development
-
-✔ Elasticsearch Optimization
-
-✔ SQL Query Optimization
-
-✔ Background Jobs & Scheduling
-
-✔ Production Monitoring
-
-✔ AWS Cloud Integrations
-
-✔ Performance Optimization
-
-✔ Linux Production Support
+**Key Contributions**
+- Designed and developed scalable backend services and REST APIs.
+- Built AI-powered knowledge assistants using FastAPI, RAG, and ChromaDB.
+- Optimized Elasticsearch and MySQL for high-performance data retrieval.
+- Integrated AWS services for cloud-native and asynchronous workflows.
+- Improved production reliability through monitoring, automation, and performance optimization.
 
 ---
 
