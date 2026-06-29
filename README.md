@@ -15,10 +15,6 @@
 Backend Software Engineer | Building Scalable Systems
 </h3>
 
-<p align="left">
-Building scalable, reliable, and production-ready backend systems.
-</p>
-
 <a href="https://dineshkaarthik.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
