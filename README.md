@@ -76,6 +76,11 @@ Backend Software Engineer | Building Scalable Systems
 </td>
 
 <td>
+<img src="https://skillicons.dev/icons?i=c" width="55"/><br>
+<b>C</b>
+</td>
+
+<td>
 <img src="https://skillicons.dev/icons?i=javascript" width="55"/><br>
 <b>JavaScript</b>
 </td>
